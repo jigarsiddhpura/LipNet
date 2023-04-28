@@ -1,4 +1,4 @@
-# LipNet Model
+# LipNet: : End-to-End Sentence-level Lipreading
 
 This project is a machine learning model that can predict text based on the lip movements of a video without audio. It can be used for applications such as speech recognition for individuals with hearing impairments, or as a tool for analyzing video footage without audio.
 
@@ -11,4 +11,8 @@ The model was trained using the CTC (Connectionist Temporal Classification) loss
 # Sample Input
 
 https://user-images.githubusercontent.com/95428432/235194337-b9d92034-a83d-40f5-9825-af2f415b7ab2.mp4
+
+# Refrences
+
+Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, Nando de Freitas 2016 "LipNet: End-to-End Sentence-level Lipreading" <a href="https://arxiv.org/abs/1611.01599">Link<a/>
 
