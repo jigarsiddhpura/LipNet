@@ -13,6 +13,9 @@ The model was trained using the CTC (Connectionist Temporal Classification) loss
 https://user-images.githubusercontent.com/95428432/235194337-b9d92034-a83d-40f5-9825-af2f415b7ab2.mp4
 
 # Refrences
+~  Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, Nando de Freitas 2016 "LipNet: End-to-End Sentence-level Lipreading" <a href="https://arxiv.org/abs/1611.01599"> Link <a/>
+  <br/>
+~ <a href="https://github.com/nicknochnack"> @nicknochnack <a/>
 
-Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, Nando de Freitas 2016 "LipNet: End-to-End Sentence-level Lipreading" <a href="https://arxiv.org/abs/1611.01599">Link<a/>
+
 
